@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Mi nombre es Francisco Araneda</h1>
-<h3 align="center">Soy un estudiante de informática con muchas ganas de aprender sobre nuevas tecnologías.</h3>
+<h1 align="center">Hola 👋, Mi nombre es Francisco Zanforlin</h1>
+<h3 align="center">Soy titulado de ingeniería en informática con muchas de mostrar mis capacidades y con ganas de aprender sobre nuevas tecnologías.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular, Spring Boot**
 
