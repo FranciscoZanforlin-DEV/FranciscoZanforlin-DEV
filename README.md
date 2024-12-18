@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Francisco Araneda</h1>
 <h3 align="center">Soy un estudiante de informática con muchas ganas de aprender sobre nuevas tecnologías.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Python, PHP**
+- 🌱 Actualmente estoy aprendiendo **Angular, Spring Boot**
 
-- 💬 Pregúntame sobre **Html, Css, JavaScript, C#, React Native**
+- 💬 Pregúntame sobre **Html, Css, JavaScript, C#, React Native, Angular y Spring Boot**
 
 - 📫 Cómo contactarme **franciscoaraneda1999@hotmail.com**
 
